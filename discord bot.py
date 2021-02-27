@@ -12,7 +12,7 @@ import pyblox3
 import requests
 import pycountry
 
-TOKEN = "ODEyMzI4ODc4MTQ4Mjg4NTUy.YC_KOA.Sjt45pR5icVz_H2RymxcA8s1KM8"
+TOKEN = "" # your mother
 intents = discord.Intents.default()
 intents.members = True
 intents.messages = True
@@ -35,7 +35,7 @@ editedauthor2 = []
 beforecontent2 = []
 aftercontent2 = []
 
-api_key = "fb728187d2618a7b36fb2c8d72408e4b"
+api_key = "" #get ur own api key lol
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 #Roze Logs
